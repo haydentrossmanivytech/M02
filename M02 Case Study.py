@@ -1,3 +1,8 @@
+"""
+Hayden Trossman
+M02 Case Study.py
+The app will ask user for a name and GPA and will then give a response as to whether the student has made dean's list or honor roll
+"""
 name = input("What is the student's first name?: ")
 
 #exit if name is ZZZ
